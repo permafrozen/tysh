@@ -5,7 +5,7 @@ A **ty***pescript* written **sh***ell* using the [`astal`](https://github.com/Ay
 
 <div align="center">
     <pre>
-      __                .__
+    __                .__
     _/  |_ ___.__. _____|  |__
     \   __<   |  |/  ___/  |  \
     |  |  \___  |\___ \|   Y  \
