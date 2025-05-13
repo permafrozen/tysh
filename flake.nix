@@ -13,7 +13,7 @@
   outputs = inputs@{ flake-parts, ags, ... }:
     flake-parts.lib.mkFlake { inherit inputs; } {
       systems = [ "x86_64-linux" "aarch64-linux" ];
-      perSystem = { config, self', inputs', pkgs, system, ... }:
+      perSystem = { pkgs, system, ... }:
         let
           pname = "tysh";
           entry = "./src/app.ts";

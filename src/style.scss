@@ -7,10 +7,18 @@ window.Bar {
     color: $fg-color;
     font-weight: bold;
 
-    >centerbox {
+    > centerbox {
         background: $bg-color;
         border-radius: 10px;
         margin: 8px;
+
+        .date {
+            margin: 8px;
+        }
+
+        .time {
+            margin: 8px;
+        }
     }
 
     button {

@@ -24,11 +24,11 @@ A **ty***pescript* written **sh***ell* using the [`astal`](https://github.com/Ay
 *nothing to show \*yet\**
 
 ## Todo
-- [ ] Setup file structure
-- [ ] Setup nix flake with a DevShell and Package
-- [ ] Setup Astal root and `sass`
-- [ ] Begin working on statusbar
-    - [ ] Render base window
+- [x] Setup file structure
+- [x] Setup nix flake with a DevShell and Package
+- [x] Setup ags/astal root and `sass`
+- [x] Begin working on statusbar
+    - [x] Render base window
     - [ ] Add time module
     - [ ] Add batt module
     - [ ] Add hypr module
