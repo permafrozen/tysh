@@ -6,9 +6,8 @@ reload() {
     ags run ./src/app.ts &
 }
 
-ags quit
 reload
 
-while inotifywait -e close_write -r ./src; do
+while inotifywait -e modify -r ./src; do
     reload
 done
