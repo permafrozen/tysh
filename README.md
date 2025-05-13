@@ -15,9 +15,13 @@ A **ty***pescript* written **sh***ell* using the [`astal`](https://github.com/Ay
 </div>
 
 > [!TIP]
-> `tysh` is a wordplay on the german word **"Tish"** *(=Table)*
+> `tysh` is a wordplay on the german word **"Tisch"** *(=Table)* combining `typescript` and `shell`
 
-`tysh` is a desktop shell, meaning it contains a statusbar, notification-daemon, runner and maybe more.
+`tysh` is a desktop shell, meaning it contains a statusbar, notification-daemon and a runner. It is heavily `WIP` and I plan to add a bunch of extra features to it.
+
+## Showcase
+
+*nothing to show \*yet\**
 
 ## Todo
 - [ ] Setup file structure
@@ -62,6 +66,8 @@ ags types -d . -p
 ```
 
 ## Legacy
+
+This is the successore of my previous shell wich was using `agsv2`: [aglet](https://github.com/permafrozen/aglet)
 
 ## License
 [GNU GENERAL PUBLIC LICENSE V3](LICENSE)
