@@ -5,7 +5,7 @@ A **ty***pescript* written **sh***ell* using the [`astal`](https://github.com/Ay
 
 <div align="center">
     <pre>
-        __                .__
+      __                .__
     _/  |_ ___.__. _____|  |__
     \   __<   |  |/  ___/  |  \
     |  |  \___  |\___ \|   Y  \
@@ -14,7 +14,8 @@ A **ty***pescript* written **sh***ell* using the [`astal`](https://github.com/Ay
     </pre>
 </div>
 
-> [!INFORMATION] `tysh` is a wordplay on the german word **"Tish"** *(=Table)*
+> [!TIP]
+> `tysh` is a wordplay on the german word **"Tish"** *(=Table)*
 
 `tysh` is a desktop shell, meaning it contains a statusbar, notification-daemon, runner and maybe more.
 
