@@ -3,14 +3,22 @@ $fg-color: #{"@theme_fg_color"};
 $bg-color: #{"@theme_bg_color"};
 
 window.Bar {
+    margin: 30px 0 30px 0;
     background: transparent;
     color: $fg-color;
     font-weight: bold;
 
     > centerbox {
+        padding: 20px 0 20px 0;
         background: $bg-color;
         border-radius: 10px;
         margin: 8px;
+        border: 2px solid $fg-color;
+
+        .focused {
+            color: $fg-color;
+            font-size: 1.2em;
+        }
 
         .date {
             margin: 8px;

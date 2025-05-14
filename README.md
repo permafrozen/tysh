@@ -29,9 +29,9 @@ A **ty***pescript* written **sh***ell* using the [`astal`](https://github.com/Ay
 - [x] Setup ags/astal root and `sass`
 - [x] Begin working on statusbar
     - [x] Render base window
-    - [ ] Add time module
-    - [ ] Add batt module
-    - [ ] Add hypr module
+    - [x] Add time module
+    - [x] Add batt module
+    - [x] Add hypr module
     - [ ] Add nice Animations
 - [ ] Begin working on notification
     - [ ] Render base window on notification
